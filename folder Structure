@@ -1,0 +1,10 @@
+our-memories/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── photo1.jpg
+│   └── photo2.jpg
+└── music/
+    └── background.mp3
